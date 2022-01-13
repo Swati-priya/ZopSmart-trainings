@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BoreToFun</string>
+    <string name="selected_item">Selected item:</string>
+
+    <string-array name="activity_array">
+    <item>Improve your touch typing</item>
+    <item>Touch your nose with Tongue</item>
+    <item>Clean your House</item>
+    <item>Plant flowers</item>
+    <item>Play cards</item>
+    <item>Go camping</item>
+    <item>Play Scavenger Hunt</item>
+    <item>Go for Shopping</item>
+    <item>Have a bonefire with frnds</item>
+</string-array>
+</resources>
